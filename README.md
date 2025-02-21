@@ -15,4 +15,4 @@
 3. Choose a destination folder.  
 4. Click **Start Sorting** and let it handle the mess!  
 
-> ⚠️ **Important:** If language/settings fail to load, manually create `tasks.json` and restart.  
+> ⚠️ **Important:** If language/settings fail to load, delete `tasks.json`, and make an custom rule and save it, and put the `languages.json` in the same places as `tasks.json`
